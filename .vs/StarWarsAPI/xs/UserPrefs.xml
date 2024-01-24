@@ -7,37 +7,32 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="StarWarsAPI/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StarWarsAPI/README.md">
     <Files>
       <File FileName="StarWarsAPI/Program.cs" Line="15" Column="1" />
-      <File FileName="StarWarsAPI/StarWarsPlanetsApp.cs" Line="31" Column="1" />
-      <File FileName="StarWarsAPI/AnyApiReader.cs" Line="26" Column="82" />
-      <File FileName="StarWarsAPI/IAnyApiReader.cs" Line="1" Column="1" />
-      <File FileName="StarWarsAPI/DTOs/Result.cs" Line="3" Column="1" />
-      <File FileName="StarWarsAPI/DTOs/Root.cs" Line="4" Column="1" />
-      <File FileName="StarWarsAPI/JsonDeserializer.cs" Line="4" Column="25" />
-      <File FileName="StarWarsAPI/IJsonDeserializer.cs" Line="4" Column="2" />
+      <File FileName="StarWarsAPI/StarWarsPlanetsApp.cs" />
+      <File FileName="StarWarsAPI/DTOs/Result.cs" />
+      <File FileName="StarWarsAPI/DTOs/Root.cs" />
       <File FileName="StarWarsAPI/Models/Planet.cs" Line="39" Column="1" />
-      <File FileName="StarWarsAPI/StringExtension.cs" Line="14" Column="2" />
-      <File FileName="StarWarsAPI/UnviersalPrinter.cs" Line="11" Column="20" />
-      <File FileName="StarWarsAPI/UserInteractor/ConsoleInteractor.cs" Line="11" Column="10" />
-      <File FileName="StarWarsAPI/UserInteractor/IConsoleInteractor.cs" Line="9" Column="2" />
-      <File FileName="StarWarsAPI/Utilities/DTOToEntity.cs" Line="21" Column="2" />
-      <File FileName="StarWarsAPI/PlanetStats/PlanetStat.cs" Line="20" Column="1" />
-      <File FileName="StarWarsAPI/PlanetFacts/PlanetSelection.cs" Line="18" Column="1" />
+      <File FileName="StarWarsAPI/UserInteractor/ConsoleInteractor.cs" />
+      <File FileName="StarWarsAPI/UserInteractor/IConsoleInteractor.cs" />
+      <File FileName="StarWarsAPI/PlanetFacts/PlanetSelection.cs" />
+      <File FileName="StarWarsAPI/README.md" Line="38" Column="1" />
+      <File FileName="StarWarsAPI/PlanetFacts/PlanetStat.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StarWarsAPI" expanded="True">
-            <Node name="StarWarsAPI">
+            <Node name="StarWarsAPI" expanded="True">
               <Node name="DataAccess" expanded="True" />
               <Node name="DTOs" expanded="True" />
               <Node name="Extensions" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="PlanetFacts" expanded="True" />
               <Node name="UserInteractor" expanded="True" />
               <Node name="Utilities" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="README.md" selected="True" />
             </Node>
           </Node>
         </State>
