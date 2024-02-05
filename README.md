@@ -1,16 +1,8 @@
-# Project
 
-The StarWars Planets Explorer console application retrieves and present data about Star Wars planets from the renowned Star Wars API.
-
-## Installation
-
-1. Clone the repository.
-2. Open the StarWarsAPI.cs file with Visual Studio.
-
-## Project goals
+# Project goals
 
 
-The primary objective of this project is to showcase a profound comprehension of C#, .NET, and fundamental software development principles.
+The primary objective of these projects is to showcase a profound comprehension of C#, .NET, and fundamental software development principles.
 
 It aims to exemplify key concepts such as Separation of Concerns, Dependency Injection, and adherence to SOLID principles.
 
@@ -25,6 +17,8 @@ Several advanced concepts have been applied throughout the project, including:
 * **Exception Handling:** Implementing exception handling mechanisms to gracefully manage and respond to unexpected runtime errors.
 
 * **Reflection for Dynamic Property Handling:** Employing reflection techniques to dynamically retrieve property types and values, enhancing flexibility and adaptability.
+
+* **Asynchrony multithreading and Parallelsim:** Utilizing Asynchrony and multithreading to make apps responsive/nonblocking and potentially enhance performance.
 
 * **Extension Methods:** Implementing extension methods to augment the functionality of existing types.
 
